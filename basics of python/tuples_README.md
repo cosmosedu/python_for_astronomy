@@ -29,3 +29,6 @@ Astronomy-related examples included in this folder demonstrate how tuples can re
 - Star information (name, distance, type)
 
 This revision is part of my preparation for scientific computing and astronomy workshops.
+
+NOTE: This README.md made by AI based on my work that I Done.
+
