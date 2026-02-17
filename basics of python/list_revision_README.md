@@ -10,3 +10,6 @@ Topics covered:
 - Conditional filtering
 
 This revision is part of my preparation for an astronomy workshop.
+
+NOTE: This README.md made by AI based on my work that I Done.
+
